@@ -1,0 +1,61 @@
+.all {
+    display: flex;
+    justify-content: center;
+    height: 850px;
+}
+
+.banner {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 98%;
+    height: 300px;
+
+}
+
+.images1 {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 98%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .5);
+
+}
+
+/*.introduce_p {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: bold;
+    top: 210px;
+}*/
+
+.function_picture {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 250px;
+    height: 150px;
+}
+
+/*.images_box {
+    width: 98%;
+}*/
+
+.images2 {
+    width: 60%;
+    margin-left: 15px;
+}
+
+.crack_introduce {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 170px;
+}
+
+.images3 {
+    width: 98%;
+
+}
