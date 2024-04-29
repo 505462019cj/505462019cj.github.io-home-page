@@ -1,0 +1,64 @@
+.all {
+    display: flex;
+    justify-content: center;
+    height: 750px;
+}
+
+.text_page_h3 {
+    position: absolute;
+    height: 12px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+
+}
+
+.text_page {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 30px;
+    top: 20px;
+    background-color: rgb(172, 187, 230);
+    border-radius: 20px;
+}
+
+.banner {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 97%;
+    height: 270px;
+    top: 70px;
+}
+
+.images1 {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 98%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .5);
+
+}
+
+.function_picture {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 370px;
+    width: 90%;
+    height: 800px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, .5);
+}
+
+.function_picture_p {
+    width: 90%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
