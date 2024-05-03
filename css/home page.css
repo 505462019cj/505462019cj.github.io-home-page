@@ -5,54 +5,50 @@
 }
 
 .banner {
-    position: absolute;
     display: flex;
     justify-content: center;
-    width: 98%;
-    height: 300px;
+    position: absolute;
+    width: 95%;
 
 }
 
 .images1 {
-    position: absolute;
     display: flex;
     justify-content: center;
-    width: 98%;
+    position: absolute;
+    width: 96%;
+    height: 220px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, .5);
 
 }
-
-/*.introduce_p {
-    position: absolute;
-    display: flex;
-    justify-content: center;
-    font-size: 15px;
-    font-weight: bold;
-    top: 210px;
-}*/
 
 .function_picture {
     position: absolute;
     display: flex;
     justify-content: center;
-    top: 250px;
+    top: 270px;
+    height: 150px;
+    width: 98%;
     height: 150px;
 }
 
-/*.images_box {
-    width: 98%;
-}*/
+.images_box {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    left: 6%;
+}
 
 .images2 {
     width: 60%;
-    margin-left: 15px;
+    margin-left: 10px;
 }
 
 .crack_introduce {
     position: absolute;
     display: flex;
     justify-content: center;
-    top: 170px;
+    top: 120px;
 }
 
 .images3 {
